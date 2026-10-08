@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Marceldev207
-- 👀 Coding by Cloud Service
-- 🌱 ServerInhaber by Cloud Service
+- 👀 LOUNGE.IT Netzwerk
+- Discord: sonnnn
+
 
 <!---
 Marceldev207/Marceldev207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
